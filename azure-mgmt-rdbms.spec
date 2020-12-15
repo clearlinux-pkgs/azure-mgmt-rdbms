@@ -4,7 +4,7 @@
 #
 Name     : azure-mgmt-rdbms
 Version  : 2.2.0
-Release  : 7
+Release  : 8
 URL      : https://files.pythonhosted.org/packages/33/c7/c50fa3c7fda5d58b313b247580a59dc78f6fb16ed50f843e355eb85bfe5a/azure-mgmt-rdbms-2.2.0.zip
 Source0  : https://files.pythonhosted.org/packages/33/c7/c50fa3c7fda5d58b313b247580a59dc78f6fb16ed50f843e355eb85bfe5a/azure-mgmt-rdbms-2.2.0.zip
 Summary  : Microsoft Azure RDBMS Management Client Library for Python
